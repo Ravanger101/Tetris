@@ -6,5 +6,5 @@ import sys
 import random
 from copy import deepcopy
 ```
-*...* [Ravanger101}(https://github.com/Ravanger101)
+*...* [Ravanger101](https://github.com/Ravanger101)
 
